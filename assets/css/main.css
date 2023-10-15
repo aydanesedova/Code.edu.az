@@ -101,6 +101,7 @@ section .phall .photoo .photo {
   justify-content: center;
   align-items: center;
   position: relative;
+  cursor: pointer;
 }
 
 section .phall .photoo .photo img {
